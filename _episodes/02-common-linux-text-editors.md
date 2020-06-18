@@ -3,13 +3,13 @@ title: "Common Linux Text Editors"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "Key question (fixed)"
 objectives:
-- "First learning objective. (FIXME)"
+- "First learning objective. (fixed)"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "First key point. Brief Answer to questions. (fixed)"
 ---
-FIXME
+fixed
 
 {% include links.md %}
 
